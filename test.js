@@ -10,6 +10,4 @@ export default function Home() {
       </Head>
 
       <h1>Dashboard</h1>
-    </Layout>
-  )
-}
+    </Layout>)}
